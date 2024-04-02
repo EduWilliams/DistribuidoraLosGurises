@@ -5,31 +5,7 @@
     
 
 }
-.CONTAINERT{
 
-    DISPLAY: FLEX;
-    FLEX-WRAP: WRAP;
-  }
-  
-  .ITEM {
-    WIDTH: 100%;
-    PADDING: 2EM;
-    FONT-SIZE: 2REM;
-  }
-  
-  @MEDIA (MIN-WIDTH: 768PX) {
-    .ITEM {
-      WIDTH: 50%;
-      FONT-SIZE: 1.5REM;
-    }
-  }
-  
-  @MEDIA (MIN-WIDTH: 1024PX) {
-    .ITEM {
-      WIDTH: 33.33%;
-      FONT-SIZE: 1REM;
-    }
-}
 
 body{
     background-color: rgb(163, 161, 161);
@@ -85,4 +61,31 @@ background-color: black;
 #negro{
    
     background-color: black;
+}
+
+
+
+@media(max-width: 1200px) {
+  body{
+      font-size: 14px;
+
+  }
+}
+@media(max-width: 992px) {
+  body{
+      font-size: 13px;
+
+  }
+}
+@media(max-width: 768px) {
+  body{
+      font-size: 12px;
+
+  }
+}
+@media(max-width: 576px) {
+  body{
+      font-size: 10px;
+
+  }
 }
