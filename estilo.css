@@ -73,6 +73,7 @@ a:hover{
 .logo{
 
     margin-top: 9px;
+    
 }
 #campo{
 
@@ -108,13 +109,29 @@ a:hover{
     height: 30em;
     border-radius: 5px;
 }
+.pie{
+    display: flex;
+
+}
 .icono{
     margin-top: 2em;
-    margin-left: 2em;
+    margin-left: 10em;
 
     width: 2.5em;
     height: 2.5em;
 }
+   #centrar{
+   
+    padding: 2em;
+   
+   }
+   #contactanos{
+    margin-top: -5em;
+
+    margin-left: 10em;
+    border-radius: 10px;
+   }
+
 #Tarjetas{
 
     width: 3.125em;
