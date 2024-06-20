@@ -1,20 +1,35 @@
 *{
     
-    padding: 5px;
-    margin:5px;
+    padding: 1px;
+    margin: 1px;
     
 
 }
 
 
 body{
-    background-color: rgb(163, 161, 161);
+    background-color: rgb(214, 209, 209);
+
+    font-size: 16px;
+}
+#header{
+
+width: 31.25em;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+}
+
+
+
+#h {
+float: left;
 
 
 }
+
 .img{
   
-width: 900px;
+width: 56.25em;
 
 }
 
@@ -31,38 +46,94 @@ width: 900px;
 
 nav{
 
-    background-color: rgb(141, 156, 88);
+    background-color: rgb(20, 20, 20);
     width:100%;
-    height: 50px;
+    height: 3.125em;
     
     border-radius: 5px;
-}
-#bom{
-
-    width:90%;
-    height: 700px;
-
-}
-#blanco{
-    
-    padding: 20px;
-    color: white;
-    align-content: center;
-}
-
-.contenedor{
-
-background-color: black;
-    
-    border: 2px blue;
-}
-
-
-#negro{
    
-    background-color: black;
 }
 
+a{
+
+    text-decoration: none;
+    color: white;
+    margin: 2px;
+
+}
+a:hover{
+
+    color: gray;
+}
+
+.columnas{
+
+    display: inline-block;
+}
+.logo{
+
+    margin-top: 9px;
+}
+#campo{
+
+    width: 68em;
+    height: 12.7em;
+    margin-right: 10px;
+    margin: 10px;
+
+}
+#sn{
+
+    margin-left: 1em;
+}
+#c{
+    margin-right: 1em;
+}
+
+
+.grande{
+
+    width: 47em;
+    height: 30em;
+    border-radius: 5px;
+}
+.chica{
+    width: 34em;
+    height: 30em;
+    border-radius: 5px;
+}
+.grande2{
+
+    width: 55em;
+    height: 30em;
+    border-radius: 5px;
+}
+.icono{
+    margin-top: 2em;
+    margin-left: 2em;
+
+    width: 2.5em;
+    height: 2.5em;
+}
+#Tarjetas{
+
+    width: 3.125em;
+    height: 3.125em;
+}
+.alinear{
+
+    float: left;
+}
+.alinear2{
+
+    float: left;
+}
+.pie{
+    background-color: black;
+    width: 100%;
+    height: 7em;
+    border-radius: 10px;
+}
 
 
 @media(max-width: 1200px) {
