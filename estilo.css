@@ -248,6 +248,20 @@ h2{
 #margen{
     margin-left: 15em;
 }
+.margen2{
+    width: 20em;
+    height: 30em;
+   
+    border-radius: 50px;
+}
+.margen3{
+
+    width: 40em;
+    height: 50em;
+    margin-top: -15em;
+    border-radius: 50px;
+}
+
 #blanco{
 width: 97%;
 
