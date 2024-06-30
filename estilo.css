@@ -232,6 +232,22 @@ border-radius: 20px;
 
 
 }
+.tv{
+    margin-left: 3em;
+    width: 22em;
+    height: 22em;
+    border-radius: 300px;
+    padding: 1em;
+}
+h2,h4{
+    text-align: center;
+}
+h2{
+    margin-top: 2em;
+}
+#margen{
+    margin-left: 15em;
+}
 #blanco{
 width: 97%;
 
