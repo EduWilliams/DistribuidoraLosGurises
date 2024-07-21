@@ -427,5 +427,19 @@ text-align: center;
   nav{
     width: 81em;
   }
+  #sn{
+
+    margin: 0%;
+  }
+
+  a{
+
+    font-size: 16px;
+  }
+
+  #c{
+
+    margin: 0%;
+  }
 
 }
