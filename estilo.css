@@ -429,17 +429,19 @@ text-align: center;
   }
   #sn{
 
-    margin: 0%;
+    margin: 1em;
+    
   }
 
   a{
 
-    font-size: 16px;
+    font-size: 18px;
+    margin-top: 0%;
   }
 
   #c{
 
-    margin: 0%;
+    margin: 1em;
   }
 
 }
