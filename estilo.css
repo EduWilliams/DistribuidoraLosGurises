@@ -429,7 +429,7 @@ text-align: center;
   }
   #sn{
 
-    margin: 1em;
+    margin-left: 1em;
     
   }
 
@@ -441,7 +441,7 @@ text-align: center;
 
   #c{
 
-    margin: 1em;
+   margin-right: 1em;
   }
   #campo{
     width: 78em;
