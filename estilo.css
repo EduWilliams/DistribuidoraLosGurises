@@ -375,7 +375,7 @@ text-align: center;
 }
 .pie{
     background-color: black;
-    width: 100%;
+    width: 83em;
     height: 19em;
     border-radius: 10px;
 }
@@ -427,6 +427,9 @@ text-align: center;
   nav{
     width: 100em;
   }
+  .pie{
+    width: 100em;
+  }
   #sn{
 
     margin-left: 1em;
@@ -437,6 +440,7 @@ text-align: center;
 
     font-size: 17px;
     margin-top: 0%;
+    padding: 0%;
   }
 
   #c{
@@ -444,7 +448,7 @@ text-align: center;
    margin-right: 1em;
   }
   #campo{
-    width: 800em;
+    width: 85em;
   }
 
 }
