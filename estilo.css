@@ -425,10 +425,10 @@ text-align: center;
 
   }
   nav{
-    width: 100em;
+    width: 98em;
   }
   .pie{
-    width: 101em;
+    width: 98em;
   }
   #sn{
 
@@ -448,7 +448,7 @@ text-align: center;
    margin-right: 1em;
   }
   #campo{
-    width: 82em;
+    width: 80em;
   }
   .grande2{
 
@@ -457,6 +457,10 @@ text-align: center;
   }
   .grande{
     margin-left: 40em;
+  }
+  #contactanos{
+
+    margin-left: -5em;
   }
 
 }
