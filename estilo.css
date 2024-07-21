@@ -96,13 +96,15 @@ a:hover{
 }
 #sn{
 
-    margin-left: 6em;
+    margin-left: 10em;
 }
 #c{
-    margin-right: 6em;
+    margin-right: 10em;
 }
 h1{
     text-align: center;
+    margin-top: 1em;
+    margin-left: -5em;
 }
 #white{
     color: white;
@@ -130,11 +132,12 @@ h1{
 }
 .dport{
 
-    margin-top: -17em;
+    
+    
     padding: 1em;
 }
 .dama{
-
+    margin-top: -10em;
     border-radius: 30px;
     padding: 0.5em;
 }
@@ -161,7 +164,7 @@ h1{
    #contactanos{
    
 width: 28em;
-height: 6.5em;
+height: 10em;
     margin-left: 12em;
     border-radius: 10px;
    }
@@ -177,7 +180,7 @@ height: 6.5em;
     width: 20%;
     margin-left: 50em;
     margin-top: -80em;
-   color: aliceblue;
+   color: rgb(94, 58, 6);
    }
    
    #elast{
@@ -185,13 +188,13 @@ height: 6.5em;
     width: 20%;
     margin-left: 25em;
     margin-top: 60em;
-    color: aliceblue;
+    color: rgb(94, 58, 6);
    }
    #cargo2{
-    margin-top: -40em;
+    margin-top: -45em;
     width: 40%;
     margin-left: 25em;
-    color: aliceblue;
+    color: rgb(94, 58, 6);
    }
    #cy2{
 
@@ -200,6 +203,19 @@ height: 6.5em;
    #bajar{
 
     margin-top: 10em;
+   }
+   #sdama{
+
+width: 60em;
+height: 40em;
+margin-top: -5em;
+
+   }
+   #sdama2{
+    margin-left: 1em;
+
+    width: 39.5em;
+    height: 25em;
    }
 
 #Tarjetas{
@@ -222,7 +238,7 @@ height: 6.5em;
     float: left;
     margin-left: 13em;
     padding: 1em;
-margin-top: -18em;
+margin-top: -13em;
 }
 .menuv{
 
@@ -231,8 +247,40 @@ list-style: none;
 
 
 }
+#contacto{
 
+    width: 45em;
+    height: 40em;
+}
+
+.negro{
+
+    background-color: black;
+    width: 41em;
+    height: 40em;
+    color: aliceblue;
+    text-align: center;
+}
+label{
+    margin-right: 1em;
+}
+input{
+    border-radius: 7px;
+}
+#email{
+    margin-left: 1.5em;
+}
+#textarea{
+    
+    width: 35em;
+    height: 10em;
+    border-radius: 7px;
+}
+#co{
+    margin-top: 1em;
+}
 .mv{
+
     
     text-align: center;
     color: black;
@@ -295,8 +343,8 @@ h2{
 }
 .blanco{
 color: azure;
-text-align: center;
-margin-top: -10em;
+margin-left: 22em;
+margin-top: -12em;
 }
 .arthom{
 
@@ -327,7 +375,7 @@ text-align: center;
 .pie{
     background-color: black;
     width: 100%;
-    height: 20em;
+    height: 19em;
     border-radius: 10px;
 }
 #top{
