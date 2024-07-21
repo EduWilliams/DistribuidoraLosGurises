@@ -428,7 +428,7 @@ text-align: center;
     width: 100em;
   }
   .pie{
-    width: 100em;
+    width: 101em;
   }
   #sn{
 
@@ -448,7 +448,12 @@ text-align: center;
    margin-right: 1em;
   }
   #campo{
-    width: 85em;
+    width: 82em;
+  }
+  .grande2{
+
+    margin-left: 10em;
+    width: 50em;
   }
 
 }
