@@ -456,11 +456,12 @@ text-align: center;
     width: 50em;
   }
   .grande{
-    margin-left: 40em;
+    margin-left: 20em;
   }
-  #contactanos{
+  .columnas{
 
-    margin-left: -5em;
+    display: block;
   }
+ 
 
 }
