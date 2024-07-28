@@ -461,6 +461,7 @@ text-align: center;
   .columnas{
 
     display: block;
+    display: contents;
   }
  
 
